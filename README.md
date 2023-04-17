@@ -11,7 +11,7 @@ The decryption follows these rules:
 4. If the character is '+', convert it to 'o', and;
 5. If the character is '!', convert it to 'u'.
 
-## To Clone This To You Machine...
+## To Clone This To Your Machine...
 ```
 git clone https://github.com/ryesgit/decryption-2.git
 cd decryption-2/
