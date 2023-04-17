@@ -11,4 +11,11 @@ The decryption follows these rules:
 4. If the character is '+', convert it to 'o', and;
 5. If the character is '!', convert it to 'u'.
 
+## To Clone This To You Machine...
+```
+git clone https://github.com/ryesgit/decryption-2.git
+cd decryption-2/
+pip install -r requirements.txt
+```
+
 *This is a replica of The Decryptor, the only difference is that this one has better commit messages.*
