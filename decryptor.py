@@ -21,3 +21,5 @@ def decrypt(text):
 
         else:
             completed_word += letter
+
+    return completed_word
